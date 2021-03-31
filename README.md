@@ -1,5 +1,5 @@
 # easybug
 
-Tool to find bugs like SSRF, XSS, Open redirect automatically
+Tool to find bugs like SSRF, XSS, Open redirect, Host-Header Injections automatically
 
-Coming soon
+Will make it public after adding more features.
